@@ -1,0 +1,8 @@
+print("hello")
+print("hai")
+print("fifth")
+print("sixth")
+print("seventh")
+print("eight")
+print("nine")
+print("tenth")
