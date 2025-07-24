@@ -24,6 +24,7 @@
 | [0001-two-sum](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
