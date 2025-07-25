@@ -7,13 +7,15 @@ class Solution {
 
     }
 
-    private int sqrt(long left, long right, long sqr) {
+    private int sqrt(int left, int right, int sqr) {
         if (left > right)
-            return (int)right;
-        long mid = (left + right) / 2;
-        if (mid * mid == sqr)
-            return (int)mid;
-        else if (mid * mid > sqr)
+            return right;
+        int mid = left + (right - left) / 2;
+
+        long sqaure = (long) mid * mid;
+        if (sqaure == sqr)
+            return mid;
+        else if (sqaure > sqr)
             return sqrt(left, mid - 1, sqr);
         else
             return sqrt(mid + 1, right, sqr);
