@@ -22,6 +22,7 @@
 | [0027-remove-element](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0066-plus-one) |
+| [0485-max-consecutive-ones](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
