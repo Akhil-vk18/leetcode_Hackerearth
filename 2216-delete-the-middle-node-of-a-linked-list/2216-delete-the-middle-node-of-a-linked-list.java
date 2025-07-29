@@ -24,9 +24,9 @@ class Solution {
             return head.next;
         }
         current =head;
-        mid=(length+1)/2;
-    if(length%2==0) mid++;
-        while(head!=null && count<mid-1){
+        mid=length/2;
+    // if(length%2==0) mid++;
+        while(current!=null && count<mid){
 current =current.next;
 count++;
         }
