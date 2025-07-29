@@ -53,6 +53,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0021-merge-two-sorted-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0027-remove-element](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
