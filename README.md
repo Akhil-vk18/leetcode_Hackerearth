@@ -22,6 +22,7 @@
 | [0027-remove-element](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0073-set-matrix-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@
 | [0001-two-sum](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
