@@ -3,9 +3,7 @@ class Solution {
        
         List<List<Integer>> res =new ArrayList<>();
          res.add(new ArrayList<>(List.of(1)));
-        if(numRows==1){
-        return res;
-        }
+        
         for(int i =1;i<=numRows-1;i++){
            
              List<Integer> prevlist =res.get(i-1);
