@@ -33,6 +33,7 @@
 | [0283-move-zeroes](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -137,4 +139,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
