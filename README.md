@@ -12,6 +12,7 @@
 | [0067-add-binary](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0088-merge-sorted-array](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0485-max-consecutive-ones) |
@@ -89,6 +91,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0908-middle-of-the-linked-list) |
