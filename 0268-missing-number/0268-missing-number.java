@@ -1,15 +1,13 @@
 class Solution {
     public int missingNumber(int[] nums) {
        
-        boolean[] missing = new boolean[nums.length +1];
+       int sum=0,n=nums.length;
         for (int i : nums) {
-            missing[i] = true;
+            sum +=i;
         }
-        for (int i = 0; i <missing.length; i++) {
-            if (!missing[i]) {
-                return i;
-            }
-        }
-        return -1;
+        //sum of sequence is n(n+1)/2
+       //so we can find the expected sum using this formula. 
+       // difference in expected and sum of array is the missing number.
+        return n*(n+1)/2-sum;
     }
 }
