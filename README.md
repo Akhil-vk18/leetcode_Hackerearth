@@ -13,6 +13,7 @@
 | [0069-sqrtx](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0118-pascals-triangle](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0485-max-consecutive-ones) |
@@ -44,6 +46,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -105,11 +108,13 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
@@ -134,6 +139,7 @@
 | [0018-4sum](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
