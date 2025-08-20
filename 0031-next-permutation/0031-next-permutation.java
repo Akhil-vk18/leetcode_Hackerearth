@@ -5,17 +5,17 @@ class Solution {
         while (pivot >= 0 && nums[pivot] >= nums[pivot + 1]) {
             pivot--;
         }
-        //if pivot is -1 then all elements are in increasing order , so we need to return the loweest possinble order eg: for[3,2,1] we return [1,2,3]
+
         if (pivot >= 0) {
-            //we need to find the first elment which is greater than the pivot element. then we swap them
+
             int pi = nums.length - 1;
-            while (pi>pivot && nums[pivot] >= nums[pi]) {
+            while (nums[pivot] >= nums[pi]) {
                 pi--;
             }
-            //swap the numbers
+
             swap(pi, pivot, nums);
         }
-        reverse(pivot + 1, nums);
+        reverse(pivot + 1,nums.length-1 ,nums);
         System.out.println(Arrays.toString(nums));
     }
 
@@ -27,8 +27,8 @@ class Solution {
 
     }
 
-    public void reverse(int start, int[] nums) {
-        int end = nums.length - 1;
+    public void reverse(int start, int end ,int[] nums) {
+      
         while (start < end) {
             swap(start, end, nums);
             start++;
