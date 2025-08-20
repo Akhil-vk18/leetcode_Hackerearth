@@ -9,7 +9,7 @@ class Solution {
         if (pivot >= 0) {
             //we need to find the first elment which is greater than the pivot element. then we swap them
             int pi = nums.length - 1;
-            while (pi >= 0 && nums[pivot] >= nums[pi]) {
+            while (pi>pivot && nums[pivot] >= nums[pi]) {
                 pi--;
             }
             //swap the numbers
