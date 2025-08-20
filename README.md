@@ -42,6 +42,7 @@
 | [0485-max-consecutive-ones](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0067-add-binary) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
