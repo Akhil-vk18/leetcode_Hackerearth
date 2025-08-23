@@ -45,6 +45,7 @@
 | [0283-move-zeroes](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -125,6 +126,7 @@
 | [0069-sqrtx](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -182,9 +184,26 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0229-majority-element-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
