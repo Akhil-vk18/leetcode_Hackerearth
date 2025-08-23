@@ -1,10 +1,10 @@
 class Solution {
     public int reversePairs(int[] nums) {
 
-        int length = nums.length;
-        int left = 0, right = length - 1;
+        
+        int left = 0, right =  nums.length - 1;
         int count = mergesort(left, right, nums);
-        System.out.println(Arrays.toString(nums));
+    
 
         return count;
     }
@@ -51,7 +51,7 @@ class Solution {
         int right = mid + 1;
         int count = 0;
         for (int left = low; left <= mid; left++) {
-            while (right <= high && nums[left] > 2l * nums[right]) {
+            while (right <= high && (long)nums[left] > 2L * nums[right]) {
                 right++;
             }
             count += right - (mid + 1);
