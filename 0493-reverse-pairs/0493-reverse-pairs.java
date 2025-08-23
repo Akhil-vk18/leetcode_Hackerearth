@@ -1,12 +1,7 @@
 class Solution {
     public int reversePairs(int[] nums) {
 
-        
-        int left = 0, right =  nums.length - 1;
-        int count = mergesort(left, right, nums);
-    
-
-        return count;
+        return mergesort(0, nums.length - 1, nums);
     }
 
     public int mergesort(int low, int high, int[] nums) {
@@ -25,7 +20,7 @@ class Solution {
     }
 
     public void merge(int low, int mid, int high, int[] nums) {
-        int left = low, right = mid + 1, i = low;
+        int left = low, right = mid + 1;
         List<Integer> arr = new ArrayList<>();
         while (left <= mid && right <= high) {
             if (nums[left] <= nums[right]) {
@@ -37,10 +32,11 @@ class Solution {
         while (left <= mid) {
             arr.add(nums[left++]);
         }
+
         while (right <= high) {
             arr.add(nums[right++]);
         }
-
+        int i = low;
         while (i <= high) {
             nums[i] = arr.get(i - low);
             i++;
@@ -51,7 +47,7 @@ class Solution {
         int right = mid + 1;
         int count = 0;
         for (int left = low; left <= mid; left++) {
-            while (right <= high && (long)nums[left] > 2L * nums[right]) {
+            while (right <= high && (long) nums[left] > 2L * nums[right]) {
                 right++;
             }
             count += right - (mid + 1);
