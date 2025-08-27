@@ -9,7 +9,7 @@ class Solution {
             return false;
         }
         int mid = low + (high - low) / 2;
-        System.out.println("low : " + low + " mid :" + mid+" high : " + high);
+        
         if (nums[mid] == target) {
             return true;
         }
