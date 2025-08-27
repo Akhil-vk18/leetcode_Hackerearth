@@ -10,7 +10,6 @@ class Solution {
             index = binarySearch(nums, target, i, length-1);//upper bound
         }
 
-        System.out.println(index);
         return index;
         // binarySearch(nums,target,i+1,nums.length);
     }
