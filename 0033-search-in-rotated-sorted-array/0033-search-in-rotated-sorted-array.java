@@ -1,12 +1,13 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int i = nums.length - 1;
+        int length = nums.length;
+        int i = length- 1;
         while (i > 0 && nums[i - 1] < nums[i]) {
             i--;
         }
         int index = binarySearch(nums, target, 0, i - 1);//lower bound
         if (index == -1) {
-            index = binarySearch(nums, target, i, nums.length-1);//upper bound
+            index = binarySearch(nums, target, i, length-1);//upper bound
         }
 
         System.out.println(index);
