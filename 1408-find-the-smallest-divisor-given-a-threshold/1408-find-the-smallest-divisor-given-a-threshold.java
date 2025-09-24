@@ -7,8 +7,8 @@ class Solution {
         // System.err.println("max "+high);
         while (low<=high) {
             int mid =low + (high-low)/2;
-            int sum=resultSum(nums,mid);
-            if(sum<=threshold){//possible
+            // int sum=resultSum(nums,mid);
+            if(resultSum(nums,mid)<=threshold){//possible
                 high=mid-1;
             }else{
                 low=mid+1;
