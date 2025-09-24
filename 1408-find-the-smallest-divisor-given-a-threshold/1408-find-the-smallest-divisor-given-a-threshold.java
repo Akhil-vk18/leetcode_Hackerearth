@@ -20,7 +20,8 @@ class Solution {
     public  int resultSum(int[] nums ,int divisor){
         int sum =0;
         for (int i : nums) {
-            sum += Math.ceil((double)i/divisor);
+            // sum += Math.ceil((double)i/divisor);
+            sum+= (i+divisor-1)/divisor;
         }
         // System.err.println("divisor "+divisor);
         // System.out.println("sum " +sum);
