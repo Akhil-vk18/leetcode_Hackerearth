@@ -90,6 +90,7 @@
 | [0058-length-of-last-word](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
 | ------- |
