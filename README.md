@@ -89,6 +89,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
@@ -127,6 +128,7 @@
 | [0031-next-permutation](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0287-find-the-duplicate-number) |
