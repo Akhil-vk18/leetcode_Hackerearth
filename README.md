@@ -94,6 +94,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0796-rotate-string) |
 ## Binary Search
 |  |
 | ------- |
