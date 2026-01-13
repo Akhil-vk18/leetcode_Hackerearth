@@ -77,6 +77,7 @@
 | [0169-majority-element](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -93,6 +94,7 @@
 | [0067-add-binary](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/1021-remove-outermost-parentheses) |
@@ -209,6 +211,7 @@
 | [0088-merge-sorted-array](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
