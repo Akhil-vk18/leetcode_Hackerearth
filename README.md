@@ -79,6 +79,7 @@
 | [0229-majority-element-ii](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -96,6 +97,7 @@
 | [0205-isomorphic-strings](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/1903-largest-odd-number-in-string) |
@@ -213,6 +215,7 @@
 | [0229-majority-element-ii](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -244,6 +247,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -265,4 +269,12 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/1903-largest-odd-number-in-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
