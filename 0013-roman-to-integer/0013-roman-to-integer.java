@@ -17,21 +17,18 @@ class Solution {
         //     value += romanValues.get(ch);
         // }
         int i = 0;
-        while (i <= length - 1) {
+        while (i < length) {
             //  char ch = ;
             // value += romanValues.get(s.charAt(i));
-            if (i != length - 1) {
-                if (romanValues.get(s.charAt(i)) < romanValues.get(s.charAt(i + 1))) {
+            
+           
+                if (i != length - 1 && romanValues.get(s.charAt(i)) < romanValues.get(s.charAt(i + 1))) {
                     value += romanValues.get(s.charAt(i + 1)) - romanValues.get(s.charAt(i));
                     i += 2;
                 } else {
                     value += romanValues.get(s.charAt(i));
                     i++;
                 }
-            } else {
-                value += romanValues.get(s.charAt(i));
-                i++;
-            }
 
         }
         return value;
