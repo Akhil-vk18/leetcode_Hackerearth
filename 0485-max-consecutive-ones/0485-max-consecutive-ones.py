@@ -6,9 +6,7 @@ class Solution:
             if num !=0:
                 k=k+1
             else:
-                if k>=max:
-                    max=k
                 k=0
-        if k>=max:
-            max=k
+            if k>=max:
+                max=k
         return max
