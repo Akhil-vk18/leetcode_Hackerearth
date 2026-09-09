@@ -1,16 +1,13 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
-        k =0
-        i=0
-        arr = [0]*len(nums)
+        pos =0
 
-        for num in nums:
-            if num!=val:
-                k +=1
+        for i in range(len(nums)):
+            if nums[i]!=val:
+                nums[pos]=nums[i]
+                pos=pos+1
                 
-                arr[i]=num
-                i= i+1
+               
 
-        nums[:]=arr
 
-        return k
+        return pos
