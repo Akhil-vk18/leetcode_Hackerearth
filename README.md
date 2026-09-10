@@ -279,4 +279,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0451-sort-characters-by-frequency) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Akhil-vk18/leetcode_Hackerearth/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
